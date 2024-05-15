@@ -43,3 +43,8 @@ streamlit run .\main.py
 ```
 ## Screenshots
 
+Main Dashboard
+![Dashboard](https://raw.githubusercontent.com/wolf1892/open-finance/main/screenshots/main.PNG "Dashboard")
+
+Modify category
+![Mod_category](https://raw.githubusercontent.com/wolf1892/open-finance/main/screenshots/add_cat.PNG "Modify category")
