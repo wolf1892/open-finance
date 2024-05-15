@@ -1,0 +1,4 @@
+category: EMI
+regex:
+  - "SIMPL"
+  - "ADD-MONEY@PAYTM"
